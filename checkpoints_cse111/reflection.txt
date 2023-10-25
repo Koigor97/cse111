@@ -1,0 +1,27 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+    For me, that would be week-4 chemistry.py program. Although I only wrote 2 or 3 functions
+    if I could remember, but looking at the other functions written by you guys and seeing
+    how intricate and denzed it was, all completing a certain task and returning the computed
+    values, made me realize the power of functions.
+
+
+2. In your judgment, what is the value of test functions?
+    Test functions are really important to give you an added assurance to that the functions
+    in your programs work as they should. And if there's any bugs in your functions, it points
+    it out and gives you hints as to where the bug is coming from. You as the programmer, can
+    then make the needed rectifications.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+    I have various ways in approaching a problem. First I'll try to think like a computer and
+    work the process in my head step by step as the computer would have done it. Secondly, I
+    look carefully in the code for any syntax error or misspellings. Thirdly, I use the print -
+    statement in the block of code where I think the issue is coming from. Fourthly, I read the
+    error message that is printed in the console and try to traceback as to where the bug is
+    located. The fifth way is to use the debugger and step line by line in my program and see
+    how everything executes. Sixth would be Stackoverflow , Google and YouTube.
