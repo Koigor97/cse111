@@ -1,0 +1,5 @@
+This week focus is about solidifying our understanding in writing re-usable functions.
+Functions that have multiple parameters, and how we can call those functions within the
+main function which display the values returned by the re-usable functions.
+We also learned about Local and Global variable scope, there differences, and how one
+should use them.
