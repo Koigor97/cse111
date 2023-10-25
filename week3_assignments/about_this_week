@@ -1,0 +1,5 @@
+This week was centered on improving our programming skills with efficiency in mind.
+We were taught how to test the functions in our Python programs. By so doing, it helps us
+as developers to indentify bugs in our code and fix them. To this however, it is recommended
+to create a separate Python file for testing the functions. This makes it easy and less clustered
+in our code.
