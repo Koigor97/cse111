@@ -27,4 +27,20 @@ print(f"The List created using zip(): {zip_list}\n")
 
 # Lambda expression
 a_lambda_list = list(map(lambda  item: item * 5, odd_number_list))
-print(f"The list created using a lambda function: {a_lambda_list}")
+print(f"The list created using a lambda function: {a_lambda_list}\n")
+
+# list comprehensions
+friend_names = ['Jerry', "Barry", "Gibril", "Alhajie", "Joe Krack", "Bryan", "Keanu", "Nakegdi"]
+friends_with_five_letter_names = [names for names in friend_names if len(names) <= 5]
+print(f"List with friend names with 5 or less than 5 letter.\n"
+      f"Using list-comprehension: {friends_with_five_letter_names}")
+
+# dictionary-comprehension
+the_dict = {
+    "gibril": "eat-alot, set confusion, study",
+    "barry": "short-tempered, like young girls, prayerful",
+    "keanu": "very-nice, God-fearing, honest, caring"
+}
+
+new_dict = PlayerCharacter.capitalize_key_and_array_value(the_dict)
+print(f"Dictionary-comprehension using class method. The result: {new_dict}")
